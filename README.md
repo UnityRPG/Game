@@ -236,6 +236,3 @@ Here are the lectures of the course for this section, including their "In this v
 + Share your thoughts and work :-)
 
 (Unique Video Reference: XX_CM_RPG)
-
----
-Find out more about our [Unity RPG Creator Course Series](https://www.udemy.com/unityrpg/?couponCode=GitHubDiscount).
